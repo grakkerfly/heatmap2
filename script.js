@@ -1,6 +1,6 @@
 // Copy contract
 function copyContract() {
-  navigator.clipboard.writeText("Contract not available yet");
+  navigator.clipboard.writeText("8pjrmvUjnHguu9vFUJz4mCcWAXXvTvJDgVBNGg9Fpump");
   alert("Contract copied!");
 }
 
@@ -131,4 +131,5 @@ function savePFP(){
   link.href = pfpCanvas.toDataURL();
   link.click();
 }
+
 
